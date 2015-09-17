@@ -6,8 +6,11 @@ var port = 3000;
 app.set('view engine', 'jade');
 
 
-app.get('/', function(req, res) {
-  res.send('Hello');
+app.get('/:width/:height', function(req, res) {
+  var w = req.params.width;
+  var h = req.params.height;
+
+  res.render('img', {'w':w , 'h': h});
 });
 
 // Starting server
