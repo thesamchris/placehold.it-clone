@@ -6,4 +6,4 @@ Just: url.com/yourwidth/yourheight
 
 
 # Example
-![Image of placehold.it-clone](https://raw.githubusercontent.com/samuelchristopher/placehold.it-clone/master/imgs/demo.png)
+![Image of placehold.it-clone](https://raw.githubusercontent.com/samuelchristopher/placehold.it-clone/master/imgs/example.png)
