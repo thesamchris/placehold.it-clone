@@ -1,0 +1,24 @@
+{
+  "name": "placehold.it-clone",
+  "version": "1.0.0",
+  "description": "I was just thinking of making something with node. This was the result!",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelchristopher/placehold.it-clone.git"
+  },
+  "author": "Samuel Christopher<thsamchris@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelchristopher/placehold.it-clone/issues"
+  },
+  "homepage": "https://github.com/samuelchristopher/placehold.it-clone#readme"
+}
